@@ -1,0 +1,14 @@
+﻿Построение начато 24.02.2013 13:32:14.
+     1>Проект "c:\Users\александр\documents\visual studio 2012\Projects\lr_1\lr_1_units\lr_1_units.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\lr_1_units.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt lr_1_units.cpp
+         lr_1_units.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\александр\documents\visual studio 2012\Projects\lr_1\Debug\lr_1_units.exe" /INCREMENTAL /NOLOGO gtestd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\александр\documents\visual studio 2012\Projects\lr_1\Debug\lr_1_units.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\александр\documents\visual studio 2012\Projects\lr_1\Debug\lr_1_units.lib" /MACHINE:X86 Debug\lr_1_units.obj
+         Debug\stdafx.obj
+         lr_1_units.vcxproj -> c:\users\александр\documents\visual studio 2012\Projects\lr_1\Debug\lr_1_units.exe
+     1>Построение проекта "c:\Users\александр\documents\visual studio 2012\Projects\lr_1\lr_1_units\lr_1_units.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.61

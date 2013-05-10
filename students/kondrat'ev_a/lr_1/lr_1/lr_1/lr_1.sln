@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr_1", "lr_1\lr_1.vcxproj", "{8703407C-DAB3-4B4E-8EE2-ED52C6B55580}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr_1_units", "lr_1_units\lr_1_units.vcxproj", "{E7288626-219E-44C4-89B1-3207873EC92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8703407C-DAB3-4B4E-8EE2-ED52C6B55580}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8703407C-DAB3-4B4E-8EE2-ED52C6B55580}.Debug|Win32.Build.0 = Debug|Win32
+		{8703407C-DAB3-4B4E-8EE2-ED52C6B55580}.Release|Win32.ActiveCfg = Release|Win32
+		{8703407C-DAB3-4B4E-8EE2-ED52C6B55580}.Release|Win32.Build.0 = Release|Win32
+		{E7288626-219E-44C4-89B1-3207873EC92A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7288626-219E-44C4-89B1-3207873EC92A}.Debug|Win32.Build.0 = Debug|Win32
+		{E7288626-219E-44C4-89B1-3207873EC92A}.Release|Win32.ActiveCfg = Release|Win32
+		{E7288626-219E-44C4-89B1-3207873EC92A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
